@@ -1,4 +1,4 @@
-Readme.html for a web-link to the model code associated with the papers:
+Readme for a web-link to the model code associated with the papers:
 
 ## References
 
